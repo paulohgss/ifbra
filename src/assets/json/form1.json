@@ -1,0 +1,36 @@
+{
+    "Nome": "",
+    "Lotacao": "",
+    "Sexo": [
+      "F",
+      "M"
+    ],
+    "Matricula": "",
+    "DataNascimento": "",
+    "Idade": 0,
+    "TipoDeficiencia": [
+      "Física",
+      "Visual",
+      "Auditiva",
+      "Intelectual ou Cognitiva"
+    ],
+    "Etnia": [
+      "Branca",
+      "Preta",
+      "Amarela",
+      "Parda",
+      "Indígena"
+    ],
+    "Diagnostico": {
+      "CID": "",
+      "Desc": "",
+      "LocalAval": "",
+      "Informante": [
+        "a própria pessoa",
+        "pessoa de convívio próprio",
+        "ambos",
+        "outros"
+      ],
+      "Historico": ""
+    }
+  }
